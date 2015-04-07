@@ -1,4 +1,4 @@
-FROM phusion/baseimage:latest
+FROM phusion/baseimage:0.9.16
 
 MAINTAINER Rodrigo Zanato Tripodi <rzanato@gmail.com>
 
